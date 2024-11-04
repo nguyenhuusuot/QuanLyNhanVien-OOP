@@ -1,0 +1,4 @@
+Ms1,Nguyen Huu,Suot,25/02/2004,Nam,Nghe An,0357167257,Quan Ly,10,100,1000
+Ms2,Ha Van,Trong,02/06/2004,Nam,Vinh Phuc,0868977150,Giam Doc,20,100,2000
+Ms3,Tran Duy,Luong,08/11/2004,Nu,Ha Tay,0374308681,Lao Cong,10,10,100
+Ms4,Nguyen Tien,Anh,27/05/2004,Nam,Dong Anh,0987669072,Bao Ve,2,50,100
